@@ -1,5 +1,5 @@
 - 👋 Hi, Abdulrahman here :)
-- 🎓 Mechatronics and IT B.Sc. student @ Karlsruhe Institute of Technology (KIT)
+- 🎓 Computer Science M.Sc. student @ Karlsruhe Institute of Technology (KIT)
 - 💻🧠 Interested in ML, Deep Learning, Engineering
 - ✉️ Contact me: aalsurabi@yahoo.de
 
