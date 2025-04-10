@@ -1,6 +1,6 @@
 - 👋 Hi, Abdulrahman here :)
 - 🎓 Computer Science M.Sc. student @ Karlsruhe Institute of Technology (KIT)
-- 💻🧠 Interested in Data Science, Data Analytics, ML and Deep Learning
+- 💻🧠 Interested in AI, Data Science, Data Analytics and Machine Learning
 - ✉️ Contact me: aalsurabi@yahoo.de
 
 <!---
